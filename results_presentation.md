@@ -1,6 +1,5 @@
 Palmer Penguins - analiza statystyczna
 ================
-Karolina Kurus, Agnieszka Sarkowicz
 2026-05-08
 
 ## Omówienie danych
